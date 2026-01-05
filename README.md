@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RealEstatePlatform (Full-Stack)
 
 ## Run locally (Dev)
@@ -29,3 +30,7 @@ Frontend: http://localhost:3000
 Backend docs: http://localhost:8000/api/docs
 
 Default admin: admin@example.com / admin123
+=======
+# RealEstatePlatform
+Platform to the real e state agents and common people to find the customers . People can add the land or buy the land in the region they need.
+>>>>>>> 43a91b64bdc4ebb0169481a39312dce8ce9b8413
